@@ -1,4 +1,4 @@
-**Bienvenidos a mi pagina de GitHub**
+# Bienvenidos a mi pagina de GitHub
 
 Encuentrame en las siguiente plataformas:
 
