@@ -1,4 +1,5 @@
-# Bienvenidos a mi pagina de GitHub <b><a href="https://edcondoric.github.io/">Ed Condori Ccora</b>
+# Bienvenidos a mi pagina de GitHub 
+<b><a href="https://edcondoric.github.io/">Ed Condori Ccora</b>
 
 Encuentrame en las siguiente plataformas:
 
